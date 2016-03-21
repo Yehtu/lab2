@@ -1,0 +1,3 @@
+g++ -c BMIclass.cpp
+g++ -c BMImain.cpp
+g++ -o BMI BMImain.o BMIclass.o
